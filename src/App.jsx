@@ -188,7 +188,7 @@ function Hero() {
         transform: visible ? "translateY(0)" : "translateY(20px)",
         transition: "opacity 0.6s ease 0.2s, transform 0.6s ease 0.2s",
       }}>
-        I build modern web applications with a focus on clean code, user experience,
+        We build modern web applications with a focus on clean code, user experience,
         and scalable architecture. Passionate about turning ideas into elegant digital solutions.
       </p>
       <div style={{
